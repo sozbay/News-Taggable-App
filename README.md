@@ -6,6 +6,10 @@ News Taggable APP ile
 - İçeriklere Eklenicek Etiketleri Ekleme<br>
 <br>  
 
+Key oluşturmak için terminal ekranına
+- **php artisan key:generate** <br>
+ komutu çalıştırılmalıdır.
+
  database/migrations klasör altında migration create table dosyaları bulunmaktadır.
  
  Kurulum için terminal ekranına<br>
